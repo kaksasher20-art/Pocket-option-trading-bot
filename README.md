@@ -33,7 +33,6 @@ This bot **does not** place trades. It fetches public market data (Binance), com
 - `worker: python main.py` (Procfile included)
 - Option A: Add **Heroku Scheduler** (every 1 or 5 minutes).
 - Option B: Manually run the dyno.
-
 ## Notes
 - Educational only. Signals are not financial advice.
 - No interaction with Pocket Option or any broker API.
